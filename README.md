@@ -19,4 +19,5 @@ During the summer '21, I visited [Hershel Museum of Astronomy](https://herschelm
 ## Launch
 
 Project is hosted on Github Pages 👇
+
 https://schoolofcode.github.io/w0d0_precourse-challenge-sandiskolarczyk/ ✨
